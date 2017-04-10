@@ -2,8 +2,6 @@ package com.aiquan.jna.plaform.win32;
 
 import static org.junit.Assert.assertEquals;
 
-import java.util.Random;
-
 import org.junit.Test;
 
 import com.aiquan.jna.platform.win32.UNIT;
